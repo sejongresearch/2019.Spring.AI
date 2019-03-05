@@ -4,7 +4,7 @@
 
 | week | Cource Contents | LectureNote | Date | 
 |:---:|:---:|:---:|:---:|
-| 1-1 | 강의개요 | 강의자료, [인증메뉴얼](https://drive.google.com/open?id=1RbyeDAsobFdMZq2chROPe4UVWqjOsVhl) | 3/5 | 
+| 1-1 | 강의개요 | [강의자료](https://drive.google.com/file/d/1Vfv0hkHxyxZjieqEaG9RevsvqgE-pMar/view?usp=sharing), [인증메뉴얼](https://drive.google.com/open?id=1RbyeDAsobFdMZq2chROPe4UVWqjOsVhl) | 3/5 | 
 | 1-2 | 인공지능개요 | 강의자료 | 3/7 | 
 | 2-1 | 머신러닝/딥러닝개요 | 강의자료 | 3/12 | 
 | 2-2 | 인공지능을위한 기초수학 | 강의자료 | 3/14 |
