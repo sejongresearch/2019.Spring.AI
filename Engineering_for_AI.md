@@ -18,4 +18,5 @@
 - [초급] [가천대 최성철교수님 ](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC)
 
 
-### github
+### github 
+- [중급] [지옥에서 온 Git](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
