@@ -14,3 +14,8 @@
 - [초급] [(1/2)주피터 노트북의 진화! 주피터랩 살펴보기](https://www.youtube.com/watch?v=70sRgL42c1w)
 - [초급] [(2/2)주피터 노트북의 진화! 주피터랩 설치하고 사용해 보기](https://www.youtube.com/watch?v=UnXXH72-ENc)
 
+### Python
+- [초급] [가천대 최성철교수님 ](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC)
+
+
+### github
