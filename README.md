@@ -1,8 +1,7 @@
 
-## 조교 모집중***
 
 ## 인공지능을 위한 엔지니어링
-- [Colab, Tensorflow, Jupyter, Github, etc]()
+- [배워봅시다. Colab, Tensorflow, Jupyter, Github, etc](https://github.com/unizard/2019.Spring.AI/blob/master/Engineering_for_AI.md)
 
 ## 강의계획서
 수업시간: 화목 12:00-13:30
