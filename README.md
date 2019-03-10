@@ -1,4 +1,5 @@
-
+## 강의관련질문
+이메일: 2019.AI@rcv.sejong.ac.kr 로 문의하세요.
 
 ## 인공지능을 위한 엔지니어링 
 - [배워봅시다. Colab, Tensorflow, Jupyter, Python, Github, etc](https://github.com/unizard/2019.Spring.AI/blob/master/Engineering_for_AI.md)
