@@ -12,7 +12,7 @@
 |:---:|:---:|:---:|:---:|
 | 1-1 | 강의개요 | [강의자료](https://drive.google.com/file/d/14X6qfz8eUUxa2l4xUj9LH6ETRYOHHy5y/view?usp=sharing), [인증메뉴얼](https://drive.google.com/open?id=1RbyeDAsobFdMZq2chROPe4UVWqjOsVhl) | 3/5 | 
 | 1-2 | AI,ML,DL 개요 | [강의자료](https://www.dropbox.com/s/gm8uopn6bicw45t/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_2%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) | 3/7 | 
-| 2-1 | 인공지능을 위한 기초 수학  | 강의자료 | 3/12 | 
+| 2-1 | 인공지능을 위한 기초 수학  | [강의자료](https://www.dropbox.com/s/hpq0it4q8esfx6t/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_3%EC%9D%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0) | 3/12 | 
 | 2-2 | 인공지능을 위한 기초수 학 | 강의자료 | 3/14 |
 | 인증 |   Python3 인증 마감  | | 3/14 |
 | 지원 |   조교 신청 마감  | | 3/14 |
