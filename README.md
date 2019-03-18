@@ -4,6 +4,9 @@
 ## 인공지능을 위한 엔지니어링 
 - [배워봅시다. Colab, Tensorflow, Jupyter, Python, Github, etc](https://github.com/unizard/2019.Spring.AI/blob/master/Engineering_for_AI.md)
 
+## 실습수업을 위한 세팅
+- https://github.com/unizard/2019.Spring.AI/issues/4
+
 ## 강의계획서
 수업시간: 화목 12:00-13:30
 강의실: 광802
