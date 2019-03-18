@@ -16,16 +16,16 @@
 | 1-1 | 강의개요 | [강의자료](https://drive.google.com/file/d/14X6qfz8eUUxa2l4xUj9LH6ETRYOHHy5y/view?usp=sharing), [인증메뉴얼](https://drive.google.com/open?id=1RbyeDAsobFdMZq2chROPe4UVWqjOsVhl) | 3/5 | 
 | 1-2 | AI,ML,DL 개요 | [강의자료](https://www.dropbox.com/s/gm8uopn6bicw45t/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_2%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) | 3/7 | 
 | 2-1 | 인공지능을 위한 기초 수학  | [강의자료](https://www.dropbox.com/s/hpq0it4q8esfx6t/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_3%EC%9D%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0) | 3/12 | 
-| 2-2 | 인공지능을 위한 기초수 학 | [강의자료](https://www.dropbox.com/s/4v5jvkvz0hl2daj/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_4%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf?dl=0) | 3/14 |
+| 2-2 | 인공지능을 위한 기초수학 | [강의자료](https://www.dropbox.com/s/4v5jvkvz0hl2daj/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_4%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf?dl=0) | 3/14 |
 | 인증 |   Python3 인증 마감  | [인증결과](https://github.com/unizard/2019.Spring.AI/issues/13) | 3/14 |
 | 지원 |   조교 신청 마감  | [조교명단](https://github.com/unizard/2019.Spring.AI/issues/16) | 3/14 |
-| 3-1 | 선형 회귀 및 분류 | 강의자료 | 3/19 |
-| 3-2 | 선형 회귀 및 분류 | 실습자료 | 3/21 |
-| 4-1 | 다중 회귀 분석 | 강의자료 | 3/26 |
-| 4-2 | 다중 회귀 분석 | 실습자료 | 3/28 |
+| 3-1 | 휴강 |  | 3/19 |
+| 3-2 | 인공지능을 위한 기초수학 | 실습자료 | 3/21 |
+| 4-1 | 선형 회귀 및 분류 | 강의자료 | 3/26 |
+| 4-2 | 선형 회귀 및 분류 | 실습자료 | 3/28 |
+| 5-1 | 다중 회귀 분석 | 강의자료 | 4/2 |
+| 5-2 | 다중 회귀 분석 | 실습자료 | 4/4 |
 | 과제1| 선형분류 및 회귀분석 | 과제제출 |    |
-| 5-1 | 딥러닝 개념과 해결책 | 강의자료 | 4/2 |
-| 5-2 | 딥러닝 개념과 해결책 | 실습자료 | 4/4 |
 | 6-1 | 뉴럴네트워크 | 강의자료 | 4/9 |
 | 6-2 | 뉴럴네트워크 | 실습자료 | 4/11 |
 | 7-1 | CNN | 강의자료 | 4/16 |
