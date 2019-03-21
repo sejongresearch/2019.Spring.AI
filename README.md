@@ -20,7 +20,7 @@
 | 인증 |   Python3 인증 마감  | [인증결과](https://github.com/unizard/2019.Spring.AI/issues/13) | 3/14 |
 | 지원 |   조교 신청 마감  | [조교명단](https://github.com/unizard/2019.Spring.AI/issues/16) | 3/14 |
 | 3-1 | 휴강 |  | 3/19 |
-| 3-2 | 인공지능을 위한 기초수학 | 실습자료 | 3/21 |
+| 3-2 | 인공지능을 위한 기초수학 | [강의자료](https://www.dropbox.com/s/p76xsamd0fxvu56/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_6%EC%9D%BC%EC%B0%A8_v2.pdf?dl=0) | 3/21 |
 | 4-1 | 선형 회귀 및 분류 | 강의자료 | 3/26 |
 | 4-2 | 선형 회귀 및 분류 | 실습자료 | 3/28 |
 | 5-1 | 다중 회귀 분석 | 강의자료 | 4/2 |
