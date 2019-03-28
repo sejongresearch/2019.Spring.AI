@@ -22,7 +22,7 @@
 | 3-1 | 휴강 |  | 3/19 | |
 | 3-2 | 인공지능을 위한 기초수학 | [강의자료](https://www.dropbox.com/s/p76xsamd0fxvu56/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_6%EC%9D%BC%EC%B0%A8_v2.pdf?dl=0) | 3/21 | |
 | 4-1 | 선형 회귀 및 분류 | [강의자료](https://www.dropbox.com/s/ttmeq70bgqttkj8/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_7%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) | 3/26 | |
-| 4-2 | 선형 회귀 및 분류 | [실습자료](https://github.com/unizard/2019.Spring.AI/blob/master/Labs_linear_regression.ipynb) | 3/28 | |
+| 4-2 | 선형 회귀 및 분류 | [실습자료][노트북](https://github.com/unizard/2019.Spring.AI/blob/master/Labs_linear_regression.ipynb), [Colab링크](https://colab.research.google.com/drive/1zf0keTCZ1UQBc030CkJk6S6xHaSlVvgH) | 3/28 | |
 | 5-1 | 다중 회귀 분석 | 강의자료 | 4/2 | |
 | 5-2 | 다중 회귀 분석 | 실습자료 | 4/4 | |
 | 과제1| 선형분류 및 회귀분석 | 과제제출 |    |
