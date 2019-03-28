@@ -27,7 +27,7 @@
 | 3-2 | 인공지능을 위한 기초수학 | [강의자료](https://www.dropbox.com/s/p76xsamd0fxvu56/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_6%EC%9D%BC%EC%B0%A8_v2.pdf?dl=0) | 3/21 | |
 | 4-1 | 선형 회귀 | [강의자료](https://www.dropbox.com/s/ttmeq70bgqttkj8/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_7%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) | 3/26 | |
 | 4-2 | 선형 회귀 | [실습자료](https://colab.research.google.com/drive/1zf0keTCZ1UQBc030CkJk6S6xHaSlVvgH) | 3/28 | |
-| 과제 | 선형 회귀 | 과제제출 | 4/1 | |
+| 과제 | 선형 회귀 | 과제문제 | 마감 4/1 | - |
 | 5-1 | 선형 분류 | 강의자료 | 4/2 | |
 | 5-2 | 선형 분류 | 실습자료 | 4/4 | |
 | 과제 | 선형분류 | 과제제출 |    |
