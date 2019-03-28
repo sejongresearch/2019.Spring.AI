@@ -1,3 +1,7 @@
+## 실습 관련 질문 모음
+- https://github.com/unizard/2019.Spring.AI/issues/23
+
+
 ## 강의관련질문
 이메일: 2019.AI@rcv.sejong.ac.kr 로 문의하세요.
 
