@@ -37,7 +37,7 @@
 | 과제2| mnist 학습 성능높이기 | 과제제출 |    | |
 | 8-1 | 중간고사 이론시험 |   | 4/23   | |
 | 8-2 | 중간고사 실습시험 |   | 4/25   | |
-| 텀플 | 텀프로젝트 팀 편성  | [팀 편성표](https://github.com/unizard/2019.Spring.AI/issues/3) |    | |
+| 텀플 | 텀프로젝트 팀 편성  | [팀 편성표](https://github.com/unizard/2019.Spring.AI/issues/3) |, [텀Q&A](https://github.com/unizard/2019.Spring.AI/issues/24)    | |
 | 9-1 | RNN I | 강의자료  | 4/30   | |
 | 9-2 | RNN I | 실습자료  | 5/2   | |
 | 10-1 | RNN II | 강의자료  | 5/7   | |
