@@ -29,7 +29,7 @@
 | 4-2 | 선형 회귀 | [실습자료](https://colab.research.google.com/drive/1zf0keTCZ1UQBc030CkJk6S6xHaSlVvgH) | 3/28 | |
 | 과제 | 선형 회귀 | [과제문제](https://github.com/unizard/2019.Spring.AI/issues/27) | 마감 4/6 | - |
 | 5-1 | 선형 분류 | [강의자료](https://www.dropbox.com/s/6fuqi8j60dkrara/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_9%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) | 4/2 | |
-| 5-2 | 선형 분류 | 실습자료 | 4/4 | |
+| 5-2 | 선형 분류 | [실습자료](https://colab.research.google.com/drive/1MWNcEaOYySXADYji1HGEUnBcwRb12g4L) | 4/4 | |
 | 과제 | 선형분류 | 과제제출 |    |
 | 6-1 | 뉴럴네트워크 | 강의자료 | 4/9 | |
 | 6-2 | 뉴럴네트워크 | 실습자료 | 4/11 | |
