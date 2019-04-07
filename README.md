@@ -11,6 +11,15 @@
 ## 실습수업을 위한 세팅
 - https://github.com/unizard/2019.Spring.AI/issues/4
 
+
+## 기타 추천 동영상
+- [딥러닝 꼭 써야 하나요?](https://github.com/unizard/2019.Spring.AI/issues/10)
+- [대학원 꼭 가야 하나요?](https://github.com/unizard/2019.Spring.AI/issues/11)
+- [당신이 뽑히지 않는 이유?](https://github.com/unizard/2019.Spring.AI/issues/12)
+- [명문대에 가면 취업과 창업에 유리한점?](https://github.com/unizard/2019.Spring.AI/issues/28)
+- [모두가 행복할 수 있는 기업문화란?](https://github.com/unizard/2019.Spring.AI/issues/29)
+
+
 ## 강의계획서
 수업시간: 화목 12:00-13:30
 강의실: 센B103
@@ -56,12 +65,6 @@
 | 16 | 기말고사 | 텀프로젝트발표, [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/13   | |
 
 
-## 기타 추천 동영상
-- [딥러닝 꼭 써야 하나요?](https://github.com/unizard/2019.Spring.AI/issues/10)
-- [대학원 꼭 가야 하나요?](https://github.com/unizard/2019.Spring.AI/issues/11)
-- [당신이 뽑히지 않는 이유?](https://github.com/unizard/2019.Spring.AI/issues/12)
-- [명문대에 가면 취업과 창업에 유리한점?](https://github.com/unizard/2019.Spring.AI/issues/28)
-- [모두가 행복할 수 있는 기업문화란?](https://github.com/unizard/2019.Spring.AI/issues/29)
 
 
 
