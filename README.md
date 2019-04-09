@@ -40,7 +40,7 @@
 | 5-1 | 선형 분류 | [강의자료](https://www.dropbox.com/s/6fuqi8j60dkrara/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_9%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) | 4/2 | |
 | 5-2 | 선형 분류 | [실습자료](https://github.com/unizard/2019.Spring.AI/issues/34) | 4/4 | |
 | 과제 | 선형분류 | [과제제출](https://github.com/unizard/2019.Spring.AI/issues/38) | 마감 4/14  |
-| 6-1 | 뉴럴네트워크 | 강의자료 | 4/9 | |
+| 6-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) | 4/9 | |
 | 6-2 | 뉴럴네트워크 | 실습자료 | 4/11 | |
 | 7-1 | CNN | 강의자료 | 4/16 | |
 | 7-2 | CNN | 실습자료 | 4/18 | |
