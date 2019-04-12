@@ -62,7 +62,7 @@
 | 13 | Paper Reading I  | 강의자료  | 5/28 | |
 | 14 | Paper Reading II | 강의자료  | 5/30   | |
 | 15 | AI Engineering | 강의자료  | 6/11   | |
-| 과제5 | Github 사용법 | 과제제출 |    | |
+| 과제5 | Github 사용법 | 과제제출 | [수강생 github모음](https://github.com/unizard/2019.Spring.AI/issues/41)   | |
 | 16 | 기말고사 | 텀프로젝트발표, [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/13   | |
 
 
