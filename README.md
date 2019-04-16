@@ -43,15 +43,15 @@
 | 6-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) | 4/9 | |
 | 6-2 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) | 4/11 | |
 | 과제 | 뉴럴네트워크 | 실습마무리&주석 제출 | 4/18  |
-| 7-1 | CNN | 강의자료 | 4/16 | |
-| 7-2 | CNN | 실습자료 | 4/18 | |
+| 7-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/z3bs6ssm4ve0235/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pdf?dl=0) | 4/16 | |
+| 7-2 | 뉴럴네트워크 | 실습자료 | 4/18 | |
 | 8-1 | 중간고사 실습/이론시험 |   | 4/23   | |
 | 텀플 | 텀프로젝트 팀 편성  | [팀 편성표](https://github.com/unizard/2019.Spring.AI/issues/3), [텀Q&A](https://github.com/unizard/2019.Spring.AI/issues/24) |    | |
 | 과제3 | 텀프로젝트 프로포잘 | 과제제출 |  4/29 | |
-| 9-1 | RNN I | 강의자료  | 4/30   | |
-| 9-2 | RNN I | 실습자료  | 5/2   | |
-| 10-1 | RNN II | 강의자료  | 5/7   | |
-| 10-2 | RNN II | 실습자료  | 5/9   | |
+| 9-1 | CNN | 강의자료  | 4/30   | |
+| 9-2 | CNN | 실습자료  | 5/2   | |
+| 10-1 | RNN I | 강의자료  | 5/7   | |
+| 10-2 | RNN I | 실습자료  | 5/9   | |
 | 11-1 | 머신러닝을 활용한 응용 I  | 강의자료  | 5/14   | |
 | 11-2 | 머신러닝을 활용한 응용 II | 강의자료  | 5/16   | |
 | 12-1 | 머신러닝을 활용한 응용 III  | 강의자료  | 5/21 | |
