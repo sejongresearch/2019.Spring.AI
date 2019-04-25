@@ -1,4 +1,4 @@
-## 실습 관련 질문 모음
+## 실습 관련 질문 모음 (FAQ)
 - https://github.com/unizard/2019.Spring.AI/issues/23
 
 
