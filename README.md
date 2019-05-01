@@ -47,7 +47,7 @@
 | 7-2 | 텀프로젝트 토론 |  | 4/18 | |
 | 8-1 | 중간고사 시험 |   | 4/23   | [중간고사](https://colab.research.google.com/drive/1DGonLB70-0paEHdQp9cStJdWofImHuNH) |
 | 텀플 | 텀프로젝트 팀 편성  | [팀 편성표](https://github.com/unizard/2019.Spring.AI/issues/43), [텀Q&A](https://github.com/unizard/2019.Spring.AI/issues/24) |    | |
-| 과제3 | 텀프로젝트 프로포잘 | 과제제출 |  4/29 | |
+| 과제3 | 텀프로젝트 프로포잘 | 과제제출 |  4/29 | [계획서](https://github.com/unizard/2019.Spring.AI/issues/55)|
 | 9-1 | CNN | 강의자료  | 4/30   | |
 | 9-2 | CNN | 실습자료  | 5/2   | |
 | 10-1 | RNN I | 강의자료  | 5/7   | |
