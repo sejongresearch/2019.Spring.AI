@@ -45,7 +45,7 @@
 | 과제 | 뉴럴네트워크 | 실습마무리&주석 제출 | 마감 4/18 | 
 | 7-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/jyv34y8tg2c6zco/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pptx?dl=0) | 4/16 | |
 | 7-2 | 텀프로젝트 토론 | [토론](https://github.com/unizard/2019.Spring.AI/issues/44) | 4/18 | |
-| 8-1 | 중간고사 시험 |   | 4/23   |  |
+| 8-1 | 중간고사 시험 |   | 4/23   | [점수분포](https://github.com/unizard/2019.Spring.AI/issues/56)  |
 | 텀플 | 텀프로젝트 팀 편성  | [팀 편성표](https://github.com/unizard/2019.Spring.AI/issues/43), [텀Q&A](https://github.com/unizard/2019.Spring.AI/issues/24) |    | |
 | 과제3 | 텀프로젝트 프로포잘 | 과제제출 |  4/29 | [계획서](https://github.com/unizard/2019.Spring.AI/issues/55)|
 | 9-1 | 중간고사 리뷰 |  [중간실기고사](https://colab.research.google.com/drive/1DGonLB70-0paEHdQp9cStJdWofImHuNH)   | 4/30   | |
