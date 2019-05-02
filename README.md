@@ -49,7 +49,7 @@
 | 텀플 | 텀프로젝트 팀 편성  | [팀 편성표](https://github.com/unizard/2019.Spring.AI/issues/43), [텀Q&A](https://github.com/unizard/2019.Spring.AI/issues/24) |    | |
 | 과제3 | 텀프로젝트 프로포잘 | 과제제출 |  4/29 | [계획서](https://github.com/unizard/2019.Spring.AI/issues/55)|
 | 9-1 | 중간고사 리뷰 |  [중간실기고사](https://colab.research.google.com/drive/1DGonLB70-0paEHdQp9cStJdWofImHuNH)   | 4/30   | |
-| 9-2 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd)  | 5/2   | |
+| 9-2 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd), [실습3-텐서보드](https://colab.research.google.com/drive/1dmzlKPwsTbdvhD0Vpav8vpfJ2e3ARK2T)  | 5/2   | |
 | 10-1 | CNN | 강의자료  | 5/7   | |
 | 10-1 | CNN | 실습자료  | 5/9   | |
 | 11-1 | RNN I | 강의자료  | 5/14   | |
