@@ -53,7 +53,7 @@
 | 10-1 | CNN | [강의자료](https://www.dropbox.com/s/pupfxear9ngiw3x/9%EC%A3%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0)  | 5/7   |  |
 | 10-1 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs), [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)  | 5/9   | |
 | 11-1 | CNN | 실습 이어서 진행  | 5/14   | |
-| 11-2 | CNN | 실습퀴즈  | 5/16   | |
+| 11-2 | CNN | [퀴즈문제](https://colab.research.google.com/drive/1Tjdjj7oUr8L4AJKIMf-1Bbc_3OJ-bgEn)  | 5/16   | |
 | 12-1 | RNN I | 강의자료  | 5/21   | |
 | 12-2 | RNN I | 실습자료  | 5/23   | |
 | 13-1 | RNN II  | 강의자료  | 5/28   | |
