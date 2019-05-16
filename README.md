@@ -51,8 +51,8 @@
 | 9-1 | 중간고사 리뷰 |  [중간실기고사](https://colab.research.google.com/drive/1DGonLB70-0paEHdQp9cStJdWofImHuNH)   | 4/30   | |
 | 9-2 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd), [실습3-텐서보드](https://colab.research.google.com/drive/1dmzlKPwsTbdvhD0Vpav8vpfJ2e3ARK2T)  | 5/2   | |
 | 10-1 | CNN | [강의자료](https://www.dropbox.com/s/pupfxear9ngiw3x/9%EC%A3%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0)  | 5/7   |  |
-| 10-1 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs), [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)  | 5/9   | |
-| 11-1 | CNN | 실습 이어서 진행  | 5/14   | |
+| 10-1 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) | 5/9   | |
+| 11-1 | CNN | [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)   | 5/14   | |
 | 11-2 | CNN | [퀴즈문제](https://colab.research.google.com/drive/1Tjdjj7oUr8L4AJKIMf-1Bbc_3OJ-bgEn), [퀴즈답](https://colab.research.google.com/drive/1Y-abymdrN3ptg29qIQnAbDrjaCjHK2UU)  | 5/16   | |
 | 12-1 | RNN I | 강의자료  | 5/21   | |
 | 12-2 | RNN I | 실습자료  | 5/23   | |
