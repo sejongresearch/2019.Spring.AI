@@ -54,10 +54,10 @@
 | 10-1 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) | 5/9   | |
 | 11-1 | CNN | [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)   | 5/14   | |
 | 11-2 | CNN | [퀴즈문제](https://colab.research.google.com/drive/1Tjdjj7oUr8L4AJKIMf-1Bbc_3OJ-bgEn), [퀴즈답](https://colab.research.google.com/drive/1Y-abymdrN3ptg29qIQnAbDrjaCjHK2UU)  | 5/16   | |
-| 12-1 | RNN I | 강의자료  | 5/21   | |
-| 12-2 | RNN I | 실습자료  | 5/23   | |
-| 13-1 | RNN II  | 강의자료  | 5/28   | |
-| 13-2 | RNN II | 강의자료  | 5/30   | |
+| 12-1 | CNN | 퀴즈  | 5/21   | |
+| 12-2 | RNN | 실습자료  | 5/23   | |
+| 13-1 | RNN | 강의자료  | 5/28   | |
+| 13-2 | RNN | 강의자료  | 5/30   | |
 | 과제4 | 텀프로젝트 중간보고서  | 과제제출 |    | 5/31 |
 | 14 | 머신러닝을 활용한 응용  | 강의자료  | 6/4 | |
 | 과제5 | AI 기술 서베이  | 과제제출 |  | 6/6 |
