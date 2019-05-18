@@ -62,7 +62,7 @@
 | 14 | 머신러닝을 활용한 응용  | 강의자료  | 6/4 | |
 | 과제5 | AI 기술 서베이  | 과제제출 |  | 6/6 |
 | 15-1 | 머신러닝을 활용한 응용  | 강의자료  | 6/11   | |
-| 15-2 | 기말고사 | 텀프로젝트발표, [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/13   |  [평가표](https://github.com/unizard/2019.Spring.AI/issues/67) |
+| 15-2 | 기말고사 | 텀프로젝트발표, [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/14 or 6/21   |  [평가표](https://github.com/unizard/2019.Spring.AI/issues/67) |
 | 16 | 기말고사 | 개별 구두 시험  | 6/18, 6/20 | |
 
 
