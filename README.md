@@ -38,18 +38,18 @@
 | 과제2 |  확률 |  | 마감 3/21 | [제출자명단] |
 | 4-1 | 선형 회귀 | [강의자료](https://www.dropbox.com/s/ttmeq70bgqttkj8/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_7%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) | 3/26 | |
 | 4-2 | 선형 회귀 | [실습자료](https://colab.research.google.com/drive/1zf0keTCZ1UQBc030CkJk6S6xHaSlVvgH) | 3/28 | |
-| 과제2 | 배추 값예측하기 | [문제](https://github.com/unizard/2019.Spring.AI/issues/27) | 마감 4/6 | [제출자명단](https://github.com/unizard/2019.Spring.AI/issues/27#issuecomment-480591322) |
+| 과제3 | 배추 값예측하기 | [문제](https://github.com/unizard/2019.Spring.AI/issues/27) | 마감 4/6 | [제출자명단](https://github.com/unizard/2019.Spring.AI/issues/27#issuecomment-480591322) |
 | 5-1 | 선형 분류 | [강의자료](https://www.dropbox.com/s/6fuqi8j60dkrara/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_9%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) | 4/2 | |
 | 5-2 | 선형 분류 | [실습자료](https://github.com/unizard/2019.Spring.AI/issues/34) | 4/4 | |
-| 과제3 | Gradient Decent | [문제](https://github.com/unizard/2019.Spring.AI/issues/38) | 마감 4/14  | [제출자명단](https://github.com/unizard/2019.Spring.AI/issues/38#issuecomment-483667671)
+| 과제4 | Gradient Decent | [문제](https://github.com/unizard/2019.Spring.AI/issues/38) | 마감 4/14  | [제출자명단](https://github.com/unizard/2019.Spring.AI/issues/38#issuecomment-483667671)
 | 6-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) | 4/9 | |
 | 6-2 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) | 4/11 | |
-| 과제4 | 뉴럴네트워크 | [문제](https://github.com/unizard/2019.Spring.AI/issues/40), [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) | 마감 4/18 | 
+| 과제5 | 뉴럴네트워크 | [문제](https://github.com/unizard/2019.Spring.AI/issues/40), [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) | 마감 4/18 | 
 | 7-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/jyv34y8tg2c6zco/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pptx?dl=0) | 4/16 | |
-| 7-2 | 텀 조/주제 | [조](https://github.com/unizard/2019.Spring.AI/issues/43), [토론](https://github.com/unizard/2019.Spring.AI/issues/44) | 4/18 | |
-| 8-1 | 중간고사 시험 |   | 4/23   | [점수분포](https://github.com/unizard/2019.Spring.AI/issues/56)  |
-| 텀과제1 | 텀프로젝트 프로포잘 | 과제제출 |  4/29 | [계획서](https://github.com/unizard/2019.Spring.AI/issues/55)|
-| 9-1 | 중간고사 리뷰 |  [중간실기고사](https://colab.research.google.com/drive/1DGonLB70-0paEHdQp9cStJdWofImHuNH)   | 4/30   | |
+| 7-2 | 텀 조/주제 | [토론](https://github.com/unizard/2019.Spring.AI/issues/44) | 4/18 | [조](https://github.com/unizard/2019.Spring.AI/issues/43) |
+| 8-1 | 중간고사 |   | 4/23   | [점수분포](https://github.com/unizard/2019.Spring.AI/issues/56)  |
+| 텀1 | 계획서 제출 | 이메일제출 |  4/29 | [계획서](https://github.com/unizard/2019.Spring.AI/issues/55)|
+| 9-1 | 중간리뷰 |  [실기고사](https://colab.research.google.com/drive/1DGonLB70-0paEHdQp9cStJdWofImHuNH)   |  4/30   | |
 | 9-2 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd), [실습3-텐서보드](https://colab.research.google.com/drive/1dmzlKPwsTbdvhD0Vpav8vpfJ2e3ARK2T)  | 5/2   | |
 | 10-1 | CNN | [강의자료](https://www.dropbox.com/s/pupfxear9ngiw3x/9%EC%A3%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0)  | 5/7   |  |
 | 10-1 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) | 5/9   | |
