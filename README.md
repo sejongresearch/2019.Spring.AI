@@ -46,9 +46,9 @@
 | 6-2 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) | 4/11 | |
 | 과제4 | 뉴럴네트워크 | [문제](https://github.com/unizard/2019.Spring.AI/issues/40), [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) | 마감 4/18 | 
 | 7-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/jyv34y8tg2c6zco/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pptx?dl=0) | 4/16 | |
-| 7-2 | 텀프로젝트 | [토론](https://github.com/unizard/2019.Spring.AI/issues/44), 주제&역할분담 | 4/18 | |
+| 텀플 | 텀 팀구성 | [팀구성](https://github.com/unizard/2019.Spring.AI/issues/43), [텀Q&A](https://github.com/unizard/2019.Spring.AI/issues/24) |    | |
+| 7-2 | 텀 팀주제 | [토론](https://github.com/unizard/2019.Spring.AI/issues/44), 주제&역할분담 | 4/18 | |
 | 8-1 | 중간고사 시험 |   | 4/23   | [점수분포](https://github.com/unizard/2019.Spring.AI/issues/56)  |
-| 텀플 | 텀프로젝트 팀 | [팀구성](https://github.com/unizard/2019.Spring.AI/issues/43), [텀Q&A](https://github.com/unizard/2019.Spring.AI/issues/24) |    | |
 | 텀과제1 | 텀프로젝트 프로포잘 | 과제제출 |  4/29 | [계획서](https://github.com/unizard/2019.Spring.AI/issues/55)|
 | 9-1 | 중간고사 리뷰 |  [중간실기고사](https://colab.research.google.com/drive/1DGonLB70-0paEHdQp9cStJdWofImHuNH)   | 4/30   | |
 | 9-2 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd), [실습3-텐서보드](https://colab.research.google.com/drive/1dmzlKPwsTbdvhD0Vpav8vpfJ2e3ARK2T)  | 5/2   | |
