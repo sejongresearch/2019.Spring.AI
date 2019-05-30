@@ -57,7 +57,7 @@
 | 12-1 | CNN | [퀴즈문제](https://colab.research.google.com/drive/1g5IqEfbrbsNziZXGoGsXs-9DNlD6AIt0)  | 5/21   | |
 | 12-2 | 휴강 |         | 5/23   | |
 | 13-1 | RNN | [강의자료](https://www.dropbox.com/s/ft956zib0xo2cfq/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN.pdf?dl=0)  | 5/28   | |
-| 13-2 | RNN | 강의자료  | 5/30   | |
+| 13-2 | RNN | [실습강의](https://www.dropbox.com/s/sxf9pna16toehql/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN_%EC%8B%A4%EC%8A%B5.pdf?dl=0), [실습코드1](https://colab.research.google.com/drive/1VzPOSsLF7gzEjqWHD2aDXmTP9pRdBmfi), [실습코드2](https://colab.research.google.com/drive/1QVCTX5cfxLvVXKX3pCMTqXz-y661q61U)  | 5/30   | |
 | 과제4 | 텀프로젝트 중간보고서  | 과제제출 |    | 5/31, [가이드라인](https://github.com/unizard/2019.Spring.AI/issues/70) |
 | 14 | RNN  | 강의자료  | 6/4 | |
 | 15 | RNN  | 강의자료  | 6/11   | |
