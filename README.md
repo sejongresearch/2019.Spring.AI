@@ -62,7 +62,7 @@
 | 14 | RNN  | 강의자료  | 6/4 | |
 | 15 | RNN  | 강의자료  | 6/11   | |
 | 16 | 기말고사 | 개별 구두 시험  | 6/18, 6/20 | [시험일정](https://github.com/unizard/2019.Spring.AI/issues/79) |
-| 16 | 발표 | [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/24 6시~9   |  [평가표](https://github.com/unizard/2019.Spring.AI/issues/67) |
+| 16 | 발표 | [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/24 6시~9시  |  [평가표](https://github.com/unizard/2019.Spring.AI/issues/67) |
 
 
 
