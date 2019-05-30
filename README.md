@@ -47,9 +47,9 @@
 | 9-2 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd), [실습3-텐서보드](https://colab.research.google.com/drive/1dmzlKPwsTbdvhD0Vpav8vpfJ2e3ARK2T)  | 5/2   | |
 | 10-1 | CNN | [강의자료](https://www.dropbox.com/s/pupfxear9ngiw3x/9%EC%A3%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0)  | 5/7   |  |
 | 10-1 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) | 5/9   | |
-| 11-1 | CNN | [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)   | 5/14   | [점수분포] |
+| 11-1 | CNN | [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)   | 5/14   |  |
 | 11-2 | 퀴즈 | [문제](https://colab.research.google.com/drive/1Tjdjj7oUr8L4AJKIMf-1Bbc_3OJ-bgEn), [답](https://colab.research.google.com/drive/1Y-abymdrN3ptg29qIQnAbDrjaCjHK2UU)  | 5/16   | [점수분포] |
-| 12-1 | 퀴즈 | [문제](https://colab.research.google.com/drive/1g5IqEfbrbsNziZXGoGsXs-9DNlD6AIt0), [답](https://colab.research.google.com/drive/1BFRD_UePm5fFYxQ7LNDFFPhzK8i8m3iO)  | 5/21   | |
+| 12-1 | 퀴즈 | [문제](https://colab.research.google.com/drive/1g5IqEfbrbsNziZXGoGsXs-9DNlD6AIt0), [답](https://colab.research.google.com/drive/1BFRD_UePm5fFYxQ7LNDFFPhzK8i8m3iO)  | 5/21   | [점수분포] |
 | 12-2 | 휴강 |         | 5/23   | |
 | 13-1 | RNN | [강의자료](https://www.dropbox.com/s/ft956zib0xo2cfq/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN.pdf?dl=0)  | 5/28   | |
 | 13-2 | RNN | [문제](https://www.dropbox.com/s/sxf9pna16toehql/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN_%EC%8B%A4%EC%8A%B5.pdf?dl=0), [실습1](https://colab.research.google.com/drive/1VzPOSsLF7gzEjqWHD2aDXmTP9pRdBmfi), [실습2](https://colab.research.google.com/drive/1QVCTX5cfxLvVXKX3pCMTqXz-y661q61U)  | 5/30   | |
