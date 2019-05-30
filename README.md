@@ -11,6 +11,8 @@
 ## 실습수업을 위한 세팅
 - https://github.com/unizard/2019.Spring.AI/issues/4
 
+## 텀프로젝트 주의 사항
+- https://github.com/unizard/2019.Spring.AI/issues/81
 
 ## 강의계획서
 수업시간: 화목 12:00-13:30
