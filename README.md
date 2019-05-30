@@ -39,7 +39,7 @@
 | 과제5 | 뉴럴네트워크 | [문제](https://github.com/unizard/2019.Spring.AI/issues/40), [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) | 마감 4/18 |  [제출자명단] 
 | 7-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/jyv34y8tg2c6zco/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pptx?dl=0) | 4/16 | |
 | 7-2 | 텀 조/주제 | [토론](https://github.com/unizard/2019.Spring.AI/issues/44) | 4/18 | [조](https://github.com/unizard/2019.Spring.AI/issues/43) |
-| 8-1 | 중간고사 |   | 4/23   | [점수분포](https://github.com/unizard/2019.Spring.AI/issues/56)  |
+| 8 | 중간고사 |   | 4/23   | [점수분포](https://github.com/unizard/2019.Spring.AI/issues/56)  |
 | 텀프1 | 계획서 제출 | 이메일제출 |  마감 4/29 | [계획서모음](https://github.com/unizard/2019.Spring.AI/issues/55)|
 | 9-1 | 중간리뷰 |  [실기고사](https://colab.research.google.com/drive/1DGonLB70-0paEHdQp9cStJdWofImHuNH)   |  4/30   | |
 | 9-2 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd), [실습3-텐서보드](https://colab.research.google.com/drive/1dmzlKPwsTbdvhD0Vpav8vpfJ2e3ARK2T)  | 5/2   | |
@@ -55,8 +55,9 @@
 | 14 | RNN  | 실습  | 6/4 | |
 | 15 | 강의 리뷰 & 요약  | 강의자료  | 6/11, 6/13   | |
 | 16 | 기말고사 | 개별 구두 시험  | 6/18, 6/20 | [시험일정](https://github.com/unizard/2019.Spring.AI/issues/79) |
-| 16 | 발표 | [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/24 6시~9시  |  [평가표](https://github.com/unizard/2019.Spring.AI/issues/67) |
-| 17 | AI 해커톤 |  | 6/25~6/26  | [공고문](https://github.com/unizard/2019.Spring.AI/issues/91) |
+| 17 | 텀 발표 | 최종 보고서, 최종 코드, 발표자료 제출 마감 | 6/23 23시 59분  |  [제출명단] |
+| 17 | 텀 발표 | [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/24 6시~9시  |  [평가표](https://github.com/unizard/2019.Spring.AI/issues/67) |
+| 번외 | AI 해커톤 |  | 6/25~6/26  | [공고문](https://github.com/unizard/2019.Spring.AI/issues/91) |
 
 
 
