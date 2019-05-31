@@ -56,7 +56,7 @@
 | 텀프 | 진행보고서 제출  | 이메일 or 깃허브  |  마감 5/31  | [가이드라인](https://github.com/unizard/2019.Spring.AI/issues/70), [조별 중간보고서](https://github.com/unizard/2019.Spring.AI/issues/70#issuecomment-497741201) |
 | 14 | RNN  | 실습  | 6/4 |  |
 | 15 | AMA    | (Ask me Anthing) 면대면 티타임 |  6/11  | [개별신청]  |
-| 15 | 팀별 미팅   | 이메일 예약 후 | 개별 미팅으로 이론/실습 대체  |   |
+| 15 | 팀별 미팅   | 이메일 예약 후 | 오피스아우어 |  6/11~6/14 |
 | 16 | 기말고사 | 개별 구두 시험  | 6/18, 6/20 | [시험일정](https://github.com/unizard/2019.Spring.AI/issues/79) |
 | 텀프 | 텀 발표 | 보고서, 깃, 발표자료 마감 | 6/23 23시 59분  |  [코드제출장소](https://github.com/sejongresearch) |
 | 텀프 | 텀 발표 | 발표전 PPT 수정 가능, [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/24 6시~9시  |  [평가표](https://github.com/unizard/2019.Spring.AI/issues/67) |
