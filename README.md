@@ -54,7 +54,7 @@
 | 13-1 | RNN | [강의자료](https://www.dropbox.com/s/ft956zib0xo2cfq/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN.pdf?dl=0)  | 5/28   | |
 | 13-2 | RNN | [문제](https://www.dropbox.com/s/sxf9pna16toehql/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN_%EC%8B%A4%EC%8A%B5.pdf?dl=0), [실습1](https://colab.research.google.com/drive/1VzPOSsLF7gzEjqWHD2aDXmTP9pRdBmfi), [실습2](https://colab.research.google.com/drive/1QVCTX5cfxLvVXKX3pCMTqXz-y661q61U)  | 5/30   | |
 | 텀프 | 진행보고서 제출  | 이메일 or 깃허브  |  마감 5/31  | [가이드라인](https://github.com/unizard/2019.Spring.AI/issues/70), [조별 중간보고서](https://github.com/unizard/2019.Spring.AI/issues/70#issuecomment-497741201) |
-| 14 | RNN  | 실습  | 6/4 |  |
+| 14 | RNN  | [실습1](https://colab.research.google.com/drive/12QyxmMif45dpJCIatRsW-t_cjuaj3NVj)  | 6/4 |  |
 | 15 |  AMA | (Ask me Anything) 토론 |  6/11  | [개별신청]  |
 | 15 | 팀별 미팅   | 오피스아우어 | 6/11~6/14 | 이메일/전화 |
 | 16 | 기말고사 | 개별 구두 시험  | 6/18, 6/20 | [시험일정](https://github.com/unizard/2019.Spring.AI/issues/79) |
