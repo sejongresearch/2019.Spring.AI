@@ -57,7 +57,7 @@
 | 15 | 텀프 | 텀프 진행상황 오프라인 정검 & 질의응답  | 6/4 |  |
 | 14 | RNN  | [실습1](https://colab.research.google.com/drive/12QyxmMif45dpJCIatRsW-t_cjuaj3NVj), 실습2, 실습3  | 6/13 |  |
 | 16 | 기말고사 | 개별 구두 시험  | 6/18, 6/20 | [시험일정](https://github.com/unizard/2019.Spring.AI/issues/96) |
-| 텀프 | 텀 발표 | 보고서, 깃, 발표자료 마감 | 6/23 23시 59분  |  [코드제출장소](https://github.com/sejongresearch) |
+| 텀프 | 텀 발표 | 보고서, 깃, 발표자료 마감 | 6/23 23시 59분  |  [코드제출장소](https://github.com/sejongresearch), [보고서양식](https://github.com/unizard/2019.Spring.AI/issues/105) |
 | 텀프 | 텀 발표 | 발표전 PPT 수정 가능, [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/24 6시~9시  |  [평가표](https://github.com/unizard/2019.Spring.AI/issues/67) |
 | 번외 | AI 해커톤 |  | 6/25~6/26  | [공고문](https://github.com/unizard/2019.Spring.AI/issues/91) |
 
