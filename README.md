@@ -55,7 +55,7 @@
 | 13-2 | RNN | [문제](https://www.dropbox.com/s/sxf9pna16toehql/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN_%EC%8B%A4%EC%8A%B5.pdf?dl=0), [실습1](https://colab.research.google.com/drive/1VzPOSsLF7gzEjqWHD2aDXmTP9pRdBmfi), [실습2](https://colab.research.google.com/drive/1QVCTX5cfxLvVXKX3pCMTqXz-y661q61U)  | 5/30   | |
 | 텀프 | 진행보고서 제출  | 이메일 or 깃허브  |  마감 5/31  | [가이드라인](https://github.com/unizard/2019.Spring.AI/issues/70), [조별 중간보고서](https://github.com/unizard/2019.Spring.AI/issues/70#issuecomment-497741201) |
 | 15 | 텀프 | 텀프 진행상황 오프라인 정검 & 질의응답  | 6/4 |  |
-| 14 | RNN  | [실습1](https://colab.research.google.com/drive/12QyxmMif45dpJCIatRsW-t_cjuaj3NVj) | 6/13 |  |
+| 14 | RNN  | [실습1](https://colab.research.google.com/drive/12QyxmMif45dpJCIatRsW-t_cjuaj3NVj), [실습1답](https://colab.research.google.com/drive/1RpC1Lt23AqJyrLwwC8oTvNjKfYMHfMk3) | 6/13 |  |
 | 16 | 기말고사 | 개별 구두 시험  | 6/18, 6/20 | [시험일정](https://github.com/unizard/2019.Spring.AI/issues/96) |
 | 텀프 | 텀 발표 | 보고서, 깃, 발표자료 마감 | 6/23 23시 59분  |  [코드제출장소](https://github.com/sejongresearch), [보고서양식](https://github.com/unizard/2019.Spring.AI/issues/105) |
 | 텀프 | 텀 발표 | 발표전 PPT 수정 가능, [우수팀 특전](https://github.com/unizard/2019.Spring.AI/issues/18)  | 6/24 6시~9시  |  [평가표](https://github.com/unizard/2019.Spring.AI/issues/67) |
