@@ -64,18 +64,6 @@
 
 
 
-<br><br>
-
-
-## 기타 추천 동영상
-- [딥러닝 꼭 써야 하나요?](https://github.com/unizard/2019.Spring.AI/issues/10)
-- [대학원 꼭 가야 하나요?](https://github.com/unizard/2019.Spring.AI/issues/11)
-- [당신이 뽑히지 않는 이유?](https://github.com/unizard/2019.Spring.AI/issues/12)
-- [명문대에 가면 취업과 창업에 유리한점?](https://github.com/unizard/2019.Spring.AI/issues/28)
-- [모두가 행복할 수 있는 기업문화란?](https://github.com/unizard/2019.Spring.AI/issues/29)
-
-
-
 
 
 
