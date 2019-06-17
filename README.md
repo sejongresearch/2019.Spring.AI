@@ -48,7 +48,15 @@
 | 번외 | AI 해커톤 |  | 6/25~6/26  | [공고문](https://github.com/unizard/2019.Spring.AI/issues/91) |
 
 
-
+>
+- 실습 관련 질문 모음 (FAQ)
+  - https://github.com/unizard/2019.Spring.AI/issues/23
+- 인공지능을 위한 엔지니어링 
+  - [배워봅시다. Colab, Tensorflow, Jupyter, Python, Github, etc](https://github.com/unizard/2019.Spring.AI/blob/master/Engineering_for_AI.md)
+- 실습수업을 위한 세팅
+  - https://github.com/unizard/2019.Spring.AI/issues/4
+- 텀프로젝트 주의 사항
+  - https://github.com/unizard/2019.Spring.AI/issues/81
 
 
 
