@@ -12,7 +12,7 @@
 | 2-2 | 인공지능을 위한 <br> 기초수학 | [강의자료](https://www.dropbox.com/s/4v5jvkvz0hl2daj/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_4%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf?dl=0) | 마감 3/14 | [과제제출명단](https://github.com/unizard/2019.Spring.AI/issues/14#issuecomment-476540487)|
 | 인증 |   Python3 인증 마감  | [인증메뉴얼](https://drive.google.com/open?id=1RbyeDAsobFdMZq2chROPe4UVWqjOsVhl) | 마감 3/14 | [인증결과](https://github.com/unizard/2019.Spring.AI/issues/13) |
 |  |   조교 신청 마감  | [조교명단](https://github.com/unizard/2019.Spring.AI/issues/16) | 마감 3/14 | |
-| 과제1 |  최소자승법 |  | 마감 3/18 | [과제제출명단](https://github.com/unizard/2019.Spring.AI/issues/5#issuecomment-476542443) |
+| 과제1 |  최소자승법 |  | 마감 3/18 | [과제제출명단](https://github.com/sejongresearch/2019.Spring.AI.Lecture/issues/5) |
 | 3-1 | 휴강 |  | 3/19 | |
 | 3-2 | 인공지능을 위한 <br> 기초수학 | [강의자료](https://www.dropbox.com/s/p76xsamd0fxvu56/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_6%EC%9D%BC%EC%B0%A8_v2.pdf?dl=0) | 3/21 | |
 | 과제2 |  확률 |  | 마감 3/21 | [제출자명단] |
